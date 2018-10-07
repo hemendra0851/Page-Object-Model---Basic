@@ -2,16 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="70630" started-at="2018-09-22T18:39:46Z" finished-at="2018-09-22T18:40:57Z">
+  <suite name="Suite" duration-ms="55036" started-at="2018-10-06T10:18:13Z" finished-at="2018-10-06T10:19:08Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="70630" started-at="2018-09-22T18:39:46Z" finished-at="2018-09-22T18:40:57Z">
+    <test name="Test" duration-ms="55036" started-at="2018-10-06T10:18:13Z" finished-at="2018-10-06T10:19:08Z">
       <class name="com.flipkart.TestCases.VerifyLoginBoxClose">
-        <test-method status="PASS" signature="VerifyClickClose()[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="VerifyClickClose" duration-ms="18557" started-at="2018-09-22T18:40:21Z" finished-at="2018-09-22T18:40:39Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- VerifyClickClose -->
-        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="nameBefore" is-config="true" duration-ms="0" started-at="2018-09-22T18:40:21Z" finished-at="2018-09-22T18:40:21Z">
+        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="nameBefore" is-config="true" duration-ms="1" started-at="2018-10-06T10:18:31Z" finished-at="2018-10-06T10:18:31Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nameBefore -->
-        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="nameBefore" is-config="true" duration-ms="2" started-at="2018-09-22T18:40:39Z" finished-at="2018-09-22T18:40:39Z">
+        <test-method status="PASS" signature="VerifyClickClose()[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="VerifyClickClose" duration-ms="19866" started-at="2018-10-06T10:18:31Z" finished-at="2018-10-06T10:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyClickClose -->
+        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="nameBefore" is-config="true" duration-ms="1" started-at="2018-10-06T10:18:51Z" finished-at="2018-10-06T10:18:51Z">
           <params>
             <param index="0">
               <value>
@@ -33,13 +33,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nameBefore -->
-        <test-method status="PASS" signature="VerifyEscClose()[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="VerifyEscClose" duration-ms="17493" started-at="2018-09-22T18:40:39Z" finished-at="2018-09-22T18:40:57Z">
+        <test-method status="PASS" signature="VerifyEscClose()[pri:0, instance:com.flipkart.TestCases.VerifyLoginBoxClose@33f88ab]" name="VerifyEscClose" duration-ms="17442" started-at="2018-10-06T10:18:51Z" finished-at="2018-10-06T10:19:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyEscClose -->
       </class> <!-- com.flipkart.TestCases.VerifyLoginBoxClose -->
       <class name="com.flipkart.TestCases.VerifyLogin">
-        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLogin@2833cc44]" name="nameBefore" is-config="true" duration-ms="10" started-at="2018-09-22T18:39:46Z" finished-at="2018-09-22T18:39:46Z">
+        <test-method status="PASS" signature="nameBefore(java.lang.reflect.Method)[pri:0, instance:com.flipkart.TestCases.VerifyLogin@2833cc44]" name="nameBefore" is-config="true" duration-ms="8" started-at="2018-10-06T10:18:13Z" finished-at="2018-10-06T10:18:13Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nameBefore -->
-        <test-method status="PASS" signature="VerifyValidLogin()[pri:0, instance:com.flipkart.TestCases.VerifyLogin@2833cc44]" name="VerifyValidLogin" duration-ms="34507" started-at="2018-09-22T18:39:46Z" finished-at="2018-09-22T18:40:21Z">
+        <test-method status="PASS" signature="VerifyValidLogin()[pri:0, instance:com.flipkart.TestCases.VerifyLogin@2833cc44]" name="VerifyValidLogin" duration-ms="17669" started-at="2018-10-06T10:18:13Z" finished-at="2018-10-06T10:18:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyValidLogin -->
